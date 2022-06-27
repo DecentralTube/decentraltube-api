@@ -1,0 +1,8 @@
+{
+  "spec": "test/**/*.spec.ts",
+  "require": ["tsconfig-paths/register", "ts-node/register"],
+  "watchExtensions": "ts",
+  "extension": "ts",
+  "timeout": 3000,
+  "file": "./dist/src/app.js"
+}
