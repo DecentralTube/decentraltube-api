@@ -22,4 +22,5 @@ describe("server checks", () => {
         done(e)
       })
   })
+  process.exit()
 })
