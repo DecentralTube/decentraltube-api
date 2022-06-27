@@ -1,11 +1,11 @@
-name: test
+name: Latest Commit
 
 on:
   push:
     branches: [ "main" ]
   pull_request:
     branches:
-    - main
+      - main
 
 jobs:
   deploy:
@@ -25,4 +25,4 @@ jobs:
       - run: npm install
       - run: npm run test
         env:
-             CI: false
+          CI: false

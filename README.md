@@ -1,4 +1,6 @@
 # DecentralTube API
+[![Build](https://github.com/DecentralTube/decentraltube-api/actions/workflows/Build.yml/badge.svg)](https://github.com/DecentralTube/decentraltube-api/actions/workflows/Build.yml)
+
 DecentralTube main API
 
 ## Features
