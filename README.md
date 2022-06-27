@@ -30,7 +30,7 @@ Start production server
 npm run start:prod
 ```
 
-(Git Repo)[https://github.com/DecentralTube/decentraltube-api]
+[Git Repo](https://github.com/DecentralTube/decentraltube-api)
 
 ## License
-This project is released under the (MIT License)[https://opensource.org/licenses/MIT]
+This project is released under the [MIT License](https://opensource.org/licenses/MIT)
